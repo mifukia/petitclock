@@ -1,0 +1,28 @@
+body { 
+	font-size: medium
+	FONT-FAMILY: arial, helvetica, san-serif;/*arial,第一候補、helvetica,第二候補*/
+	margin: 0px;
+	padding: 0px;
+	/* FONT-SIZE: 12px; */ 
+}
+#top{
+	padding: 5px 0 0 5px;
+}
+#page
+{
+	/* position: relative; */
+	/*width: 900px;*/
+	left: 20px;
+}
+
+#main
+{
+	position: absolute;
+	font-size: x-large;
+	top: 30px;
+	float: left;
+	left: 10px;
+	border: 1px solid gray;
+}
+
+
